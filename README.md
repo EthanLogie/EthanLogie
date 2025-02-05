@@ -1,6 +1,6 @@
 ## Hi there, I'm Ethan Logie! 👋  
 
-🚀 **Computer Science Student @ Concordia University
+🚀 **Computer Science Student @ Concordia University**
 
 Im passionate about Object-Oriented porgramming, as well as frontend and backend web development!
 
